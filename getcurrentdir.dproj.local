@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/02/25 07.47.28.000.386,=D:\APPS PROJECT\DELPHI 11 VCL\Unit1.pas</Transaction>
+    <Transaction>2025/05/19 08.35.22.572,=D:\APPS PROJECT\DELPHI 11 VCL\Unit1.pas</Transaction>
+    <Transaction>2025/05/19 08.35.41.620,D:\APPS PROJECT\DELPHI 11 VCL\GET CURRENT DIRECTORY\umain.pas=D:\APPS PROJECT\DELPHI 11 VCL\Unit1.pas</Transaction>
+    <Transaction>2025/05/19 08.35.41.620,D:\APPS PROJECT\DELPHI 11 VCL\GET CURRENT DIRECTORY\umain.dfm=D:\APPS PROJECT\DELPHI 11 VCL\Unit1.dfm</Transaction>
+    <Transaction>2025/05/19 08.35.46.830,D:\APPS PROJECT\DELPHI 11 VCL\GET CURRENT DIRECTORY\getcurrentdir.dproj=D:\APPS PROJECT\DELPHI 11 VCL\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
